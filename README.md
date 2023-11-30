@@ -23,18 +23,19 @@ The application can be accessed and used at this link [here.](https://just-anoth
 
 ## Usage
 
-![Screenshot 2023-11-29 at 6 51 28 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/1ad0bb50-010b-4577-be4d-44f759cbde7e)
+![Screenshot 2023-11-29 at 6 50 56 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/54809e9e-ee75-4053-b02d-f1615aac8f22)
+- Application service worker
 
 ![Screenshot 2023-11-29 at 6 51 46 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/8110b8b5-d709-469f-ad06-4b545920140a)
+- Application indexedDB
 
 ![Screenshot 2023-11-29 at 6 52 23 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/90f6262e-a1a6-4369-a10c-0070c2d01793)
+- Application manifest.json
 
 
 ## Contributing
 - Referenced the Xpert Learning Assistant
-- Referenced class activities found in the 17-NoSql module
-- [MongoDB documentation](https://www.mongodb.com/docs/manual/)
-- [Express.js documentation](https://expressjs.com/en/5x/api.html)
+- Referenced class activities found in the 18-PWA module
   
 ## Tests
 N/A
