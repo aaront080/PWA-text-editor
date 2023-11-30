@@ -22,19 +22,13 @@ This application is a functional Text Editor application (J.A.T.E) that was crea
 The application can be accessed and used at this link [here.](https://just-another-text-editor-app-b654790a3d7e.herokuapp.com/)
 
 ## Usage
-![Get request for all users_thoughts](https://github.com/aaront080/social-media-api/assets/143736506/babc7d22-875b-4880-b9b3-ddb395a9d51e)
 
-- Get request for all users
+![Screenshot 2023-11-29 at 6 51 28 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/1ad0bb50-010b-4577-be4d-44f759cbde7e)
 
-![GET user by ID](https://github.com/aaront080/social-media-api/assets/143736506/e41ed644-10d5-4fb4-bb7e-d164446cf4a8)
+![Screenshot 2023-11-29 at 6 51 46 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/8110b8b5-d709-469f-ad06-4b545920140a)
 
-- Get request for user by ID 
+![Screenshot 2023-11-29 at 6 52 23 PM](https://github.com/aaront080/PWA-text-editor/assets/143736506/90f6262e-a1a6-4369-a10c-0070c2d01793)
 
-![POST user](https://github.com/aaront080/social-media-api/assets/143736506/5f7e57da-2a5b-4ec8-bdb4-9a86c63359e9)
-
--Post request for user
-
-Click this image to see a walkthrough of this application!
 
 ## Contributing
 - Referenced the Xpert Learning Assistant
